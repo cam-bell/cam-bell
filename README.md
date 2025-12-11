@@ -1,73 +1,99 @@
-# Hi there, I’m Cameron Bell 👋
+# 👋 Hi there, I’m Cameron Bell
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/cameronsobell/)  
-[![Email](https://img.shields.io/badge/Email-cameronsobell@gmail.com-red?logo=gmail)](mailto:cameronsobell@gmail.com)
+[![Email](https://img.shields.io/badge/Email-cameronsobell@gmail.com-red?logo=gmail)](mailto:cameronsobell@gmail.com)  
+[![GitHub](https://img.shields.io/github/followers/cameronbell?label=Follow&logo=github)](https://github.com/cameronbell)
+
+## 🚀 About Me
+
+I’m an MSc Computer Science & Business Technology graduate with a hybrid profile spanning **AI engineering**, **ML systems**, **data science**, and **software engineering**. I build practical, production-oriented solutions that blend cutting-edge generative AI with robust software architecture — from multi-agent orchestration platforms to scalable ML pipelines.
+
+I’ve contributed to real-world systems, such as a **multi-agent risk classifier at BHSI** that cut underwriting reviews from hours to minutes, and prototyped autonomous research and trading systems across diverse LLMs and cloud platforms.
+
+I’m currently focused on full-stack AI systems, async orchestration, observability, and scalable MLOps pipelines that bridge data science and production software.
 
 ---
 
-## 👨‍💻 About Me
-I’m a Master’s student in **Computer Science & Business Technology** at IE University, with a passion for designing data-driven solutions and driving digital transformation. I combine strong analytical skills with real-world project experience—spanning algorithms, cloud architecture, and sustainable infrastructure—to deliver measurable impact.
+## 🧠 Technical Skills & Tools
 
-- 🔭 I’m currently exploring **AI-driven energy management** in cloud/data centers  
-- 🌱 I’m deepening my knowledge of **graph theory** and **advanced search algorithms**  
-- 👯 I’m open to collaborating on open source projects in **Python**, **Javascript**, and **Cloud DevOps**  
-- 💬 Ask me about **A\*** pathfinding, **digital transformation roadmaps**, or **green computing**  
-
----
-
-## 🛠️ Skills & Tools
-
-| Languages       | Frameworks & Libraries | Cloud & DevOps        | Data & Analytics          |
-| --------------- | ---------------------- | --------------------- | ------------------------- |
-| Python, SQL,    | Flask, React, FastAPI, | AWS, Azure, Docker    | Pandas, NumPy, Matplotlib |
-| JavaScript, C#  | SQLAlchemy,            | Kubernetes,           | Scikit-learn, Seaborn     |
+**Languages & Core:** Python · SQL · Bash · TypeScript · JavaScript  
+**AI & LLMs:** OpenAI Agents SDK · CrewAI · LangGraph · LangChain · AutoGen · GPT-4o/4.1-mini · DeepSeek V3 · Gemini · Claude · Llama · Grok  
+**ML & NLP:** HuggingFace TF (FinBERT) · Pandas · scikit-learn · statsmodels · vector DBs (FAISS, ChromaDB)  
+**Cloud & Deployment:** GCP (Cloud Run) · Docker · GitHub Actions · Redis · Celery · MLflow · W&B · Hydra  
+**Web & APIs:** FastAPI · Gradio · React · Playwright · BeautifulSoup  
+**Async & Protocols:** asyncio · concurrent.futures · gRPC · Model Context Protocol (MCP)  
+**Data & Modelling:** RAG · Random Forest · Gradient Boosting · ARIMA/SARIMA/Prophet · cost-sensitive learning · feature engineering · data validation
 
 ---
 
-## 🚀 Selected Projects
+## 🏆 Selected Projects
 
-### 📁 **Discrete Mathematics** — Playlist Generator Algorithm  
-**Role:** Lead algorithm design & implementation  
-**Highlights:**  
-- Modeled group music preferences using **set theory** & **bipartite graphs**  
-- Coded playlist generators in Python; achieved 91.5% on marking rubric  
+### 🚧 BHSI Risk Classification System  
+🧰 *FastAPI · React · GCP · BigQuery · Gemini*  
+Built a multi-agent orchestration platform with 11+ specialist agents to automate underwriting risk assessments, slashing manual review time from hours to minutes and integrating legal-ready structured scoring.
 
-### 📈 **Business Technology Management** — Hypoteq Transformation Plan  
-**Role:** KYC vendor evaluation & ROI modeling  
-**Highlights:**  
-- Developed a **technology roadmap** (CRM, KYC, API integrations)  
-- Built a business case for **quick-win** KYC automation (240% ROI)  
+### 📈 Autonomous Trading System  
+🧰 *Python · OpenAI Agents SDK · MCP · Gradio · SQLite*  
+Prototype autonomous trading orchestration across multiple concurrent LLM agents with real-time logging, async scheduling, and simulated P&L visualisation.
 
-### ☁️ **Infrastructure for Computing** — Cloud Migration for Butterfield Bank  
-**Role:** Regulatory compliance & SWOT analysis  
-**Highlights:**  
-- Compared **Public, Private & Hybrid** cloud models against GDPR/PCI DSS  
-- Presented hybrid-cloud recommendation for 99.99% uptime  
+### 🔎 Deep Research Workflow  
+🧰 *Python · OpenAI Agents · asyncio · Gradio*  
+Constructed an efficient multi-agent research system with intelligent query routing, async parallelism, and quality assurance loops, cutting costs and improving output reliability.
 
-### 🧩 **Data Structures & Algorithms** — A\*/Greedy Route Finder  
-**Role:** Heuristic design & data-structure optimization  
-**Highlights:**  
-- Implemented **A\*** and **Greedy Search** in Python (Jupyter notebook)  
-- Optimized priority-queue operations for real-time route planning  
+### 🤖 LangGraph Autonomous Task Agent  
+🧰 *Python · LangGraph · Playwright · SQLite*  
+Demonstrated autonomous browsing, text extraction and long-term memory integration with RAG for complex task execution.
 
-### 🌱 **Sustainability in Cloud** — Individual Research Essay  
-**Role:** Solo research & report author  
-**Highlights:**  
-- Surveyed **renewable energy**, **virtualization**, and **advanced cooling**  
-- Proposed an integrated strategy to cut data-center emissions by 80%  
+### 📨 Multi-Model Sales Agent System  
+🧰 *Python · OpenAI Agents · DeepSeek · Gemini · SendGrid*  
+Orchestrated multiple persona-based agents to automate segmented outreach and structured email generation with safety guardrails.
+
+### 🏥 Healthcare Readmission Risk Model  
+🧰 *MLflow · Hydra · FastAPI · W&B*  
+Deployed a reproducible MLOps pipeline with a Random Forest model forecasting readmission risk and simulating projected cost savings.
+
+### ⚡ Time-Series Forecasting & Strategy  
+🧰 *ARIMA · SARIMAX · Prophet*  
+Analysed ~6.75 years of energy pricing data and designed BESS trading insights with improved forecast accuracy vs baselines.
+
+### 📚 Other Highlights  
+Graph search algorithms (A\*) in Python · Enterprise payroll system architecture design · Production NLP pipeline with transformer ensembles
 
 ---
 
-## 📫 How to Reach Me
-- 🔗 LinkedIn:   [linkedin.com/in/cameronbell](https://www.linkedin.com/in/cameronbell)  
-- 📧 Email:   [cameronsobell@gmail.com](mailto:cameronsobell@gmail.com)   
+## 💼 Professional Experience
+
+**Innovation Intern** — United Utilities *(Warrington, UK)*  
+Standardised processes and enhanced documentation quality to boost onboarding efficiency.
+
+**Financial Advisory Intern** — Hargreaves Lansdown *(Bristol, UK)*  
+Streamlined advisory workflows and presented data-driven insights to executive leadership.
+
+---
+
+## 🎓 Education
+
+**MSc, Computer Science & Business Technology** — IE School of Science and Technology *(Madrid)*  
+Leadership roles and advanced modules in AI, NLP, MLOps, cloud computing.
+
+**BSc Management** — University of Bristol *(UK)*
+
+---
+
+## 🌟 Motivation & Goals
+
+I’m passionate about building systems where **intelligence meets impact** — practical AI/ML solutions that earn trust in regulated environments, scale efficiently, and uncover insights hidden in data. I’m actively exploring autonomous workflows, structured agent orchestration, and cross-discipline integrations that accelerate meaningful outcomes.
+
+---
+
+## 📫 Get In Touch
+
+LinkedIn: https://www.linkedin.com/in/cameronsobell/  
+Email: cameronsobell@gmail.com
 
 ---
 
 ## 📊 GitHub Stats
 
-[![Cameron’s GitHub stats](https://github-readme-stats.vercel.app/api?username=cameronbell&show_icons=true&theme=default)](https://github.com/cam-bell)
+[![Cameron’s GitHub stats](https://github-readme-stats.vercel.app/api?username=cameronbell&show_icons=true&theme=default)](https://github.com/cameronbell)
 
----
-
-<sub>“Continuous learning is the minimum requirement for success in any field.” — Brian Tracy</sub>

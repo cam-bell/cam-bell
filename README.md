@@ -27,6 +27,20 @@ I’m currently focused on full-stack AI systems, async orchestration, observabi
 | **Data & Modelling** | ![RAG](https://img.shields.io/badge/RAG-000000?logo=none) ![Random Forest](https://img.shields.io/badge/Random%20Forest-green) ![Prophet](https://img.shields.io/badge/Prophet-000000) |
 
 
+### 🧠 Technical Skills & Tools
+
+| Category | Skills & Tools |
+|----------|----------------|
+| **Languages & Core** | Python, SQL, Bash, TypeScript, JavaScript |
+| **AI & LLM Engineering** | OpenAI Agents SDK, CrewAI, LangGraph, LangChain, AutoGen, GPT-4o/4.1-mini, DeepSeek V3, Gemini, Claude, Llama, Grok |
+| **ML & NLP** | HuggingFace (FinBERT), scikit-learn, pandas, NumPy, SciPy, statsmodels, FAISS, ChromaDB |
+| **Cloud & Deployment** | GCP (Cloud Run), Docker, GitHub Actions, Redis, Celery, MLflow, W&B, Hydra |
+| **Web & APIs** | FastAPI, Gradio, React, Playwright, BeautifulSoup |
+| **Async & Protocols** | asyncio, concurrent.futures, gRPC, Model Context Protocol (MCP) |
+| **Data & Modelling Techniques** | RAG, Random Forest, Gradient Boosting, ARIMA/SARIMA/Prophet, cost-sensitive learning, feature engineering, data validation |
+
+
+
 ---
 
 ## 🏆 Selected Projects

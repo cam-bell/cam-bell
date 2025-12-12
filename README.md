@@ -19,15 +19,15 @@ I’m currently focused on full-stack AI systems, async orchestration, observabi
 | Category | Tools |
 |----------|-------|
 | **Languages & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **AI & LLMs** | ![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=langchain) ![LangGraph](https://img.shields.io/badge/LangGraph-000000?logo=langgraph) ![CrewAI](https://img.shields.io/badge/CrewAI-000000?logo=crewai) ![AutoGen](https://img.shields.io/badge/AutoGen-000000?logo=autogen) ![MCP](https://img.shields.io/badge/MCP-000000?logo=mcp) |
+| **AI & LLMs** | ![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-8A2BE2?logo=langchain) ![LangGraph](https://img.shields.io/badge/LangGraph-2AA198?logo=langgraph) ![CrewAI](https://img.shields.io/badge/CrewAI-E63946?logo=crewai) ![AutoGen](https://img.shields.io/badge/AutoGen-1F77B4?logo=autogen) ![MCP](https://img.shields.io/badge/MCP-6E7582?logo=mcp) |
 | **ML & NLP** | ![HuggingFace](https://img.shields.io/badge/HuggingFace-F5900E?logo=huggingface) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-2F2F2F?logo=pinecone&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-070707?logo=faiss&logoColor=white) |
 | **Cloud & DevOps** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=azure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-000000?logo=mlflow) ![W&B](https://img.shields.io/badge/Weights_%26_Biases-000000?logo=wandb&logoColor=white) |
 | **Web & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-F97316?logo=gradio&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) |
-| **Data & Modelling** | ![RAG](https://img.shields.io/badge/RAG-000000?logo=none&logoColor=white) ![Random Forest](https://img.shields.io/badge/Random_Forest-6DBE45?logo=none&logoColor=white) ![Prophet](https://img.shields.io/badge/Prophet-5A14A2?logo=none&logoColor=white) |
+| **Data & Modelling** | ![RAG](https://img.shields.io/badge/RAG-000000?logo=none&logoColor=white) ![Random Forest](https://img.shields.io/badge/Random_Forest-6DBE45?logo=none&logoColor=white) ![Prophet](https://img.shields.io/badge/Prophet-5A14A2?logo=none&logoColor=white) ![Linear Regression](https://img.shields.io/badge/Linear_Regression-008080?logo=none&logoColor=white) ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-FF8C00?logo=none&logoColor=white) |
 
 ---
 
-## 🏆 Selected Projects
+## 🏆 Projects
 
 ### 🚧 BHSI Risk Classification System  
 🧰 *FastAPI · React · GCP · BigQuery · Gemini*  
@@ -78,12 +78,6 @@ Streamlined advisory workflows and presented data-driven insights to executive l
 Leadership roles and advanced modules in AI, NLP, MLOps, cloud computing.
 
 **BSc Management** — University of Bristol *(UK)*
-
----
-
-## 🌟 Motivation & Goals
-
-I’m passionate about building systems where **intelligence meets impact** — practical AI/ML solutions that earn trust in regulated environments, scale efficiently, and uncover insights hidden in data. I’m actively exploring autonomous workflows, structured agent orchestration, and cross-discipline integrations that accelerate meaningful outcomes.
 
 ---
 

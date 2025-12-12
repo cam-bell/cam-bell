@@ -14,15 +14,18 @@ I’m currently focused on full-stack AI systems, async orchestration, observabi
 
 ---
 
-## 🧠 Technical Skills & Tools
+### 🧠 Technical Skills & Tools
 
-**Languages & Core:** Python · SQL · Bash · TypeScript · JavaScript  
-**AI & LLMs:** OpenAI Agents SDK · CrewAI · LangGraph · LangChain · AutoGen · GPT-4o/4.1-mini · DeepSeek V3 · Gemini · Claude · Llama · Grok  
-**ML & NLP:** HuggingFace TF (FinBERT) · Pandas · scikit-learn · statsmodels · vector DBs (FAISS, ChromaDB)  
-**Cloud & Deployment:** GCP (Cloud Run) · Docker · GitHub Actions · Redis · Celery · MLflow · W&B · Hydra  
-**Web & APIs:** FastAPI · Gradio · React · Playwright · BeautifulSoup  
-**Async & Protocols:** asyncio · concurrent.futures · gRPC · Model Context Protocol (MCP)  
-**Data & Modelling:** RAG · Random Forest · Gradient Boosting · ARIMA/SARIMA/Prophet · cost-sensitive learning · feature engineering · data validation
+| Category | Tools |
+|----------|-------|
+| **Languages & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash) ![TS](https://img.shields.io/badge/TS-3178C6?logo=typescript) ![JS](https://img.shields.io/badge/JS-F7DF1E?logo=javascript) |
+| **AI & LLMs** | ![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=openai) ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=langchain) ![AutoGen](https://img.shields.io/badge/AutoGen-000000?logo=github) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=googlecloud) ![Claude](https://img.shields.io/badge/Claude-000000?logo=anthropic) |
+| **ML & NLP** | ![HuggingFace](https://img.shields.io/badge/HuggingFace-F5900E?logo=huggingface) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas) ![FAISS](https://img.shields.io/badge/FAISS-000000?logo=facebook) |
+| **Cloud & DevOps** | ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions) ![MLflow](https://img.shields.io/badge/MLflow-000000?logo=mlflow) ![W&B](https://img.shields.io/badge/Weights_%26_Biases-000000?logo=wandb) |
+| **Web & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi) ![Gradio](https://img.shields.io/badge/Gradio-1F8ACB?logo=gradio) ![React](https://img.shields.io/badge/React-61DAFB?logo=react) |
+| **Async & Protocols** | ![asyncio](https://img.shields.io/badge/asyncio-000000?logo=python) ![gRPC](https://img.shields.io/badge/gRPC-4285F4?logo=grpc) |
+| **Data & Modelling** | ![RAG](https://img.shields.io/badge/RAG-000000?logo=none) ![Random Forest](https://img.shields.io/badge/Random%20Forest-green) ![Prophet](https://img.shields.io/badge/Prophet-000000) |
+
 
 ---
 

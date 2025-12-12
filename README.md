@@ -39,6 +39,7 @@ I’m currently focused on full-stack AI systems, async orchestration, observabi
 | **Async & Protocols** | asyncio, concurrent.futures, gRPC, Model Context Protocol (MCP) |
 | **Data & Modelling Techniques** | RAG, Random Forest, Gradient Boosting, ARIMA/SARIMA/Prophet, cost-sensitive learning, feature engineering, data validation |
 
+![Cameron’s Skills](https://skillicons.dev/icons?i=py,postgres,mysql,sqlite,bash,typescript,js,fastapi,react,flask,redis,supabase,gradio,mlflow,docker,aws,azure,gcp,githubactions,sklearn,pandas,faiss,langchain,openai)
 
 
 ---

@@ -92,7 +92,7 @@ Email: cameronsobell@gmail.com
 
 [![Cameron’s GitHub stats](https://github-readme-stats.vercel.app/api?username=cameronbell&show_icons=true&theme=default)](https://github.com/cameronbell)
 
-Below is a **rewritten version of your GitHub profile README** optimised for the **10-second recruiter scan**, while respecting your constraints (skills table preserved, badges kept, professional tone, and highlighting the top 4 systems). The structure emphasises **AI systems engineering, architecture, and deployment credibility**.
+
 
 ---
 
@@ -218,17 +218,4 @@ Email: [cameronsobell@gmail.com](mailto:cameronsobell@gmail.com)
 
 [![Cameron’s GitHub stats](https://github-readme-stats.vercel.app/api?username=cameronbell\&show_icons=true\&theme=default)](https://github.com/cameronbell)
 
----
 
-# Next (the powerful trick)
-
-The next optimisation I mentioned is **extremely valuable for your portfolio**:
-
-I can show you how to structure **each repository README like a mini technical case study**, the style commonly used by engineers hired at:
-
-* Anthropic
-* OpenAI
-* Palantir
-* Databricks
-
-It dramatically improves how recruiters perceive project depth.

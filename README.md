@@ -102,19 +102,19 @@ Energy market forecasting system analysing ~6.75 years of pricing data to genera
 
 # 🔬 Additional Projects
 
-🧬 Self-Replicating Agent System
+### 🧬 Self-Replicating Agent System
 
 🧰 Python · AutoGen · gRPC · importlib · Docker
 
 Implemented a **dynamic agent-generation framework** where creator agents autonomously generate, validate, register, and orchestrate new Python agents at runtime using meta-programming workflows and sandboxed execution patterns.
 
-🛠 Engineering Team Code Generation System
+### 🛠 Engineering Team Code Generation System
 
 🧰 Python · CrewAI · GPT-4o · Claude 3.7 Sonnet · Docker · Gradio
 
 Developed a **multi-agent autonomous software engineering pipeline** simulating architect, backend, frontend, and QA roles to generate executable full-stack applications with Docker-sandboxed code execution, retry logic, and automated validation.
 
-📊 Stock Picker Financial Analysis System
+### 📊 Stock Picker Financial Analysis System
 
 🧰 Python · CrewAI · OpenAI Embeddings · SQLite · Serper API
 

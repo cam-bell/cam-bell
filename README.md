@@ -146,6 +146,7 @@ Streamlined advisory workflows and delivered analytical insights supporting fina
 
 **MSc, Computer Science & Business Technology** — IE School of Science and Technology *(Madrid)*  
 Leadership roles: Class Representative, Community Engagement Rep, Tech & Innovation Club Events Officer
+
 Focus: AI systems, NLP, MLOps, cloud computing.
 
 **BSc Management** — University of Bristol *(UK)*
